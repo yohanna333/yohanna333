@@ -1,6 +1,6 @@
 ### 👋 Oi, eu sou a Yohanna Eloize Gomes Hegele!
 
-🚀 Aluna do 1ºA Técnico em Alimentos. 
+🚀 Aluna do 1ºA Técnico em Alimentos.                                                                                                             
 💻 Apaixonada por aprender e crescer na área de **Desenvolvimento Web**.  
 🎯 Foco atual: **JavaScript**, **HTML** e fundamentos de **Informática**.
 
